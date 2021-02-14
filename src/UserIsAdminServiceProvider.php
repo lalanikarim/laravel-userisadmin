@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Infinidigm\UserIsAdmin;
 
 use Illuminate\Support\ServiceProvider;
 
