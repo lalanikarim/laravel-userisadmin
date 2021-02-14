@@ -12,9 +12,9 @@
     "minimum-stability": "dev",
     "extra":{
       "laravel":{
-        "providers":{
+        "providers":[
           "Infinidigm\\UserIsAdmin\\UserIsAdminServiceProvider"
-        }
+        ]
       }
     },
     "require": {}
