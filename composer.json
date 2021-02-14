@@ -1,0 +1,14 @@
+{
+    "name": "infinidigm/userisadmin",
+    "description": "Add is_admin property to User model",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karim Lalani",
+            "email": "jimmy00784@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
